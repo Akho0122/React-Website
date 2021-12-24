@@ -60,6 +60,7 @@ const Line = styled.span`
   height: 15rem;
   margin-top: 2rem;
   border-radius: 20px 20px 0 0;
+  
 `;
 
 const Triangle = styled.span`
