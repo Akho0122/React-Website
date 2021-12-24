@@ -12,8 +12,8 @@ const move = keyframes`
 `;
 
 const AboutSection = styled.div`
-  width: 100vw;
   position: relative;
+  width: 100vw;
   display: flex;
   flex-direction: column;
   justify-content: center;
