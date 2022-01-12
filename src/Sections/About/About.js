@@ -74,9 +74,9 @@ const Content = styled.div`
 `;
 
 const Rocket = styled.div`
-  display: flex;
   justify-content: center;
   align-items: center;
+   display: flex;
   width: 40%;
   padding-bottom: 5rem;
   animation: ${move} 2.5s ease infinite;
